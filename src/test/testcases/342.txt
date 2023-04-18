@@ -1,0 +1,6 @@
+
+      lol: function integer() {
+        a = arr[0];
+        return a+3-2%2;
+      }
+      

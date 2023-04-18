@@ -1,0 +1,4 @@
+
+    testfunc: function string (a: boolean) {
+        x: float = 1.5e-10 + x + y;
+    }

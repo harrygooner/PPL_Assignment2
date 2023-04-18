@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BooleanLit(True), ReturnStmt(), ReturnStmt()), VarDecl(x, ArrayType([2], IntegerType), ArrayLit([IntegerLit(123232323), UnExpr(-, IntegerLit(23232323232))]))]))
+])

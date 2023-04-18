@@ -1,0 +1,7 @@
+
+        main: function void() {
+          result: integer = fact(5);
+          printInteger(result);
+          str: string = "yo bro, such a nice day";
+        }
+      

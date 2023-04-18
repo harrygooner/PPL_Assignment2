@@ -1,0 +1,7 @@
+
+      str_ret: function void(){
+        a: float = 12.0;
+        c: integer;
+        b: boolean;
+        return;
+      }

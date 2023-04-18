@@ -1,0 +1,9 @@
+main: function void() {
+    if (foo == barz)
+        if (barz == bar)
+            call();
+        else
+            dontCall();
+    else
+        callAPI();
+}

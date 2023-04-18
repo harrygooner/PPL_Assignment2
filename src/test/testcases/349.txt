@@ -1,0 +1,6 @@
+
+        a: integer;
+        b,c: integer;
+        e,f,g: float;
+        d: array [1] of integer;
+      

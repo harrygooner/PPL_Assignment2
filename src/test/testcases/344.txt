@@ -1,0 +1,4 @@
+
+      str_ret: function string(){
+        return "abc"::"NICE";
+      }

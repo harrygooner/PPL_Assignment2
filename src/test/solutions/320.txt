@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(testfunc, StringType, [Param(a, BooleanType)], None, BlockStmt([VarDecl(x, FloatType, BinExpr(+, BinExpr(+, FloatLit(1.5e-10), Id(x)), Id(y)))]))
+])

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(test, FloatType, [], None, BlockStmt([ReturnStmt(FloatLit(23000.0))]))
+])

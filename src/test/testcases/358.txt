@@ -1,0 +1,11 @@
+
+      main: function void(){
+        x: string = "HI BRP asdasdasd";
+        if(x=="TEST") return;
+        else x = "HAHAHAHHA";
+        for(i=1,i<10,i+1){
+          foo(i);
+        }
+        return;
+      }
+      

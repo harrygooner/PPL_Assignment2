@@ -1,0 +1,5 @@
+main: function void () {
+            if (true)
+                if (false) a = 4;
+            else b = 5;
+        }

@@ -1,0 +1,11 @@
+
+      main: function void(){
+        x: integer = 12;
+        if(x+2==0) return;
+        else x = x+1;
+        for(i=1,i<10,i+1){
+          writeInt(i);
+        }
+        return;
+      }
+      

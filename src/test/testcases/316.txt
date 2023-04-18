@@ -1,0 +1,8 @@
+
+    testfunc: function integer (a: integer) {
+        while (a < 10) a = a + 1;
+        return a + 3;
+    }
+    main: function void () {
+        testfunc();
+}

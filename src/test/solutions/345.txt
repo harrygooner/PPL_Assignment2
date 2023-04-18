@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(str_ret, StringType, [], None, BlockStmt([ReturnStmt(StringLit(abc))]))
+])

@@ -1,0 +1,1 @@
+test: function float(){return 2_3e+3;}

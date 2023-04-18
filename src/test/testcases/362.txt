@@ -1,0 +1,9 @@
+
+      main:function void(){
+        x: integer = -2+3-123*12_9;
+        y: float = 2e13-23;
+        a: integer = 12;
+        z: string = "NICE NICE NICE";
+        s: boolean = !false && true;
+      }
+      

@@ -1,0 +1,23 @@
+
+    testfunc: function void (inherit out a: array[2, 3] of float) inherit foo {
+        do {
+            for (a[2,3] = 4.5, (!!b && a[10] == true) || a[10] == false, b >= !b) {
+                while (a_bss[2]) {
+                    x: float = 1.5e-10 * --x;
+                    x = 2.5 % a[2,2];
+                    continue;
+                }
+                
+                if (a[1] != !("false")) {
+                    readFloat();
+                    break;
+                }
+            }
+            
+            main(2+5.5, "55" :: b);
+        } while (true) ;
+                    
+        main: array[2 , 4] of boolean = {true, "223"};
+        
+        a = test(a[2, 23 ,23], !!aa, --a);
+    }

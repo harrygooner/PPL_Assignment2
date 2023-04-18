@@ -1,0 +1,2 @@
+x, y: integer = 1*2, 2+3;
+                    a: string = "abc" :: "def";

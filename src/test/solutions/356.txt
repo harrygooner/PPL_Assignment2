@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([VarDecl(result, IntegerType, FuncCall(fact, [IntegerLit(5)])), CallStmt(printInteger, Id(result)), VarDecl(str, StringType, StringLit(yo bro, such a nice day))]))
+])

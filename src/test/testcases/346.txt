@@ -1,0 +1,6 @@
+
+      str_ret: function integer(){
+        a: integer = 12_32323232323232323;
+        b: array [1] of integer = {123};
+        return a+23-23231123%123*9999;
+      }

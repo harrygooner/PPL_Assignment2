@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(main, VoidType, [], None, BlockStmt([IfStmt(BinExpr(==, Id(foo), Id(barz)), IfStmt(BinExpr(==, Id(barz), Id(bar)), CallStmt(call, ), CallStmt(dontCall, )), CallStmt(callAPI, ))]))
+])

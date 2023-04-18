@@ -1,0 +1,5 @@
+main: function void () {
+            arrOfArr = { {1+1, a<=b}, {!true, "string1"::"string\"2\""}, {2e-2 * 1_1.E+3, a[2e-2 * 1_1.E+3]} };
+            arrOfArrOfArr = { {{1+1, a<=b}, {!true, "string1"::"string\"2\""}} , {{2e-2 * 1_1.E+3, {a[2e-2 * 1_1.E+3]}}} };
+            empArr =  {};
+        }

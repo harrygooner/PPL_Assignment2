@@ -1,0 +1,1 @@
+a: auto = arr[1, foo(), three, 2*2];

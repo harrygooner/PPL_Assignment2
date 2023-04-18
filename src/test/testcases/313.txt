@@ -1,0 +1,5 @@
+
+    main: function void () {
+        if (3 > 4 + 5) a[0] = "hello world";
+        else a[0] = "hello world in else";
+}
